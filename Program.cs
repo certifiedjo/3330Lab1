@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using static System.Console;
+﻿using static System.Console;
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, Josiah");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
